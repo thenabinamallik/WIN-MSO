@@ -9,9 +9,9 @@ Welcome to our Access Request Portal. To gain access, kindly follow the instruct
 ## 📜 Instructions
 To access this resource, please obtain a password from our administrator. You can reach out to us via:
 
-- **Email:** [admin@yourdomain.com](mailto:admin@yourdomain.com)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfileLink)
+- **Email:** [nabinamallik2003@gmail.com](mailto:nabinamallik2003@gmail.com)
+- **Twitter:** [@thenabinamallik](https://twitter.com/thenabinamallk)
+- **LinkedIn:** [Nabina Mallik](https://www.linkedin.com/in/thenabinamallik)
 
 Make sure to include your reason for requesting access in your message.
 
