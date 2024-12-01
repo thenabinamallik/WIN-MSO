@@ -18,9 +18,9 @@ Make sure to include your reason for requesting access in your message.
 ---
 
 ## ☕ Support Us
-If you find our work valuable, consider supporting us on [Buy Me a Coffee](https://www.buymeacoffee.com/YourUsername). Your contribution helps us maintain and improve our services.
+If you find our work valuable, consider supporting us on [Buy Me a Coffee]([https://www.buymeacoffee.com/nabinamalld](https://buymeacoffee.com/nabinamalld)). Your contribution helps us maintain and improve our services.
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YourUsername)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nabinamalld)
 
 ---
 
